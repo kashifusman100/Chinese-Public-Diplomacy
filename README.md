@@ -32,7 +32,7 @@ Pakistan tops the list with 192 projects, followed by Sri Lanka (114), Afghanist
 ## Investment Amount Over the Years
 This line chart shows the yearly trend of Chinese investments in billions of Chinese Yen. The year 2014 saw the highest investment, with approximately 1150 billion Chinese Yen spent across various countries. This reflects a peak in China's public diplomacy efforts.
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![China's international diplomacy spendings](.Visualizations/China's%20international%20diplomacy%20spending%20from%202000%20onwards.png)
 
 ## Project Categories Distribution
 Infrastructure investment dominates with 869 projects, followed by humanitarian assistance (294 projects). Debt relief lags with only 21 projects, indicating a strategic preference for infrastructure development.
