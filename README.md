@@ -50,15 +50,9 @@ Approximately 67.4% of projects are completed, 20.3% are in the implementation s
 ![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
 
 ## Key Findings
-- ### Dominance of Completed Projects
-   Over two-thirds of the projects (67.4%) have been completed, with a significant financial commitment to delivering outcomes.
-- ### Focus on South Asia
-   Countries like Pakistan, Sri Lanka, and Afghanistan are major recipients, reflecting China's geopolitical and economic interests in the region.
-- ### Peak Investment in 2014
-   The highest investment year was 2014, with 1150 billion Chinese Yen spent globally.
-- ### Infrastructure is the Priority
-   The majority of investments (869 projects) are in infrastructure, signaling a focus on long-term development.
-- ### Grant-based Financial Flow
-   Grants dominate the funding type, indicating a strategic approach to building goodwill.
-- ### Strategic Project Implementation
-   The consistent completion rate of projects highlights China's commitment to executing its public diplomacy initiatives
+- Dominance of Completed Projects: Over two-thirds of the projects (67.4%) have been completed, with a significant financial commitment to delivering outcomes.
+- Focus on South Asia: Countries like Pakistan, Sri Lanka, and Afghanistan are major recipients, reflecting China's geopolitical and economic interests in the region.
+- Peak Investment in 2014: The highest investment year was 2014, with 1150 billion Chinese Yen spent globally.
+- Infrastructure is the Priority: The majority of investments (869 projects) are in infrastructure, signaling a focus on long-term development.
+- Grant-based Financial Flow: Grants dominate the funding type, indicating a strategic approach to building goodwill.
+- Strategic Project Implementation: The consistent completion rate of projects highlights China's commitment to executing its public diplomacy initiatives.
